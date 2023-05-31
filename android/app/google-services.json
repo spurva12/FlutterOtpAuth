@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91259465048",
+    "project_id": "flutterotpauth-50dcb",
+    "storage_bucket": "flutterotpauth-50dcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91259465048:android:631df5b824345ea444c92d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_otp_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB48bocAltxgjVzmNDgxyi7Cz_Xgust2i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
